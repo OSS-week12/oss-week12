@@ -9,7 +9,6 @@ int main() {
 	int sum = (kor + math + eng);
 	int avg = sum/3;
 
-
 	printf("Korean : %d\n", kor);
 	printf("Math : %d\n", math);
 	printf("English : %d\n", eng);
