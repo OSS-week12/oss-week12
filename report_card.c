@@ -5,8 +5,9 @@ int main() {
 
 	int kor = 90;
 	int math = 80;
-	int sum = 90;
 	int eng = 80;
+	int sum = (kor + math + eng);
+
 
 	printf("Korean : %d\n", kor);
 	printf("Math : %d\n", math);
